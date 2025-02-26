@@ -1,4 +1,3 @@
-
 import './App.css';
 import React from "react";
 import Game from './components/game'
@@ -10,9 +9,6 @@ function App() {
   <div>
     <Game/>
   </div>
-  
- 
-
  )
 
 }
